@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@color/colorGray"
+        android:state_enabled="false" tools:ignore="StateListReachable" />
+    <item
+        android:drawable="@color/colorShallowBlue"
+        android:state_enabled="true"/>
+
+</selector>
